@@ -6,11 +6,11 @@ The Supplementary Materials for the [Machine Learning Q and AI](https://nostarch
 
 Please use the [Discussions](https://github.com/rasbt/ml-q-and-ai/discussions) for any questions about the book!
 
-<img src="img/cover.jpg" alt="2023-ml-qai-cover" width="200">
+<img src="img/cover.jpg" alt="2023-ml-qai-cover" width="200"> 
 
 <br>
 
-#### About the Book
+#### About the Book:
 
 If you’ve locked down the basics of machine learning and AI and want a fun way to address lingering knowledge gaps, this book is for you. This rapid-fire series of short chapters addresses 30 essential questions in the field, helping you stay current on the latest technologies you can implement in your own work.
 
@@ -23,20 +23,20 @@ Each chapter of *Machine Learning Q and AI* asks and answers a central question,
 - Confidence intervals for ML
 - And many more!
 
-<p style="font-size: 0.8em;">
+<p style="font-size: 1em;">
 This book is a fully edited and revised version of <a href="https://leanpub.com/machine-learning-q-and-ai">Machine Learning Q and AI</a>, which was available on Leanpub.
 </p>
 
 <br>
 
-#### Reviews
+#### Reviews:
 
 > “One could hardly ask for a better guide than Sebastian, who is, without exaggeration, the best machine learning educator currently in the field. On each page, Sebastian not only imparts his extensive knowledge but also shares the passion and curiosity that mark true expertise.”<br>
 **-- Chris Albon, Director of Machine Learning, The Wikimedia Foundation**
 
 <br>
 
-#### Links
+#### Links:
 
 - [Preorder directly from No Starch press](https://nostarch.com/machine-learning-q-and-ai)
 - [Preorder directly from Amazon](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768)
@@ -45,7 +45,7 @@ This book is a fully edited and revised version of <a href="https://leanpub.com/
 <br>
 <br>
 
-## Table of Contents
+## Table of Contents:
 
 | Title | URL Link | Supplementary Code |
 |---------|-------|----------|
